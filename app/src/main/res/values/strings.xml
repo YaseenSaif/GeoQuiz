@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FLASE</string>
+    <string name="correct_toast">Correct !</string>
+    <string name="incorrect_toast">InCorrect !</string>
+    <string name="question_text"></string>
+    <string name="question_L1_1">Is Sanaa the capital of yemen?</string>
+    <string name="question_L1_2">Is Hodaidah the commercial city in Yemen?</string>
+    <string name="question_L1_3">Is dollar the official coin in Yemen?</string>
+    <string name="question_L1_4">Is IBB the greenland in Yemen?</string>
+    <string name="question_L1_5">Is Taiz the city of culture in Yemen?</string>
+    <string name="question_L1_6">Is Old trafold Stadium in Yemen?</string>
+    <string name="question_L2_1">Is Sanaa the largest city of yemen?</string>
+    <string name="question_L2_2">Is the Mississippi River in Brazil?</string>
+    <string name="question_L2_3">Is Alexandria in Egypt?</string>
+    <string name="question_L2_4">Is Beirut the capital of Morocco?</string>
+    <string name="question_L2_5">Is the English language the most widespread in the world?</string>
+    <string name="question_L2_6">Is Russia the largest country in the world?</string>
+    <string name="question_L3_1">Is Real Madrid the best club in the world?</string>
+    <string name="question_L3_2">Is Hanoi the capital of Malaysia?</string>
+    <string name="question_L3_3">Is the Volga River the smallest river in Europe?</string>
+    <string name="question_L3_4">Is al-Nabi Shuaib mountain the largest mountain in Yemen?</string>
+    <string name="question_L3_5">Is Buenos Aires the capital of Uruguay? </string>
+    <string name="question_L3_6">Is Algeria the most populated Arab country in the Arab world?</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="Previous_button">Previous</string>
+    <string name="Next_button">Next</string>
+</resources>
